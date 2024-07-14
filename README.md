@@ -7,3 +7,6 @@ control panel project
  R means read item
  U means update item
  D means delete item
+
+ #### PROJECT FEATURES
+ _ Create items
